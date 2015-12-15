@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Ekonomika</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Мануал</string>
+
+    <string name="Bj">Bj</string>
+    <string name="Xj">Xj</string>
+    <string name="X">X</string>
+    <string name="BjXj">Bj*Xj</string>
+    <string name="BjX">Bj*X</string>
+
+    <string name="O">0</string>
+
+    <string name="NewDate">Добавить значение</string>
+    <string name="Datas">Мануал</string>
+
+    <string-array name="pokazateli">
+        <item>Удобство работы</item>
+        <item>Новизна</item>
+        <item>Соответствие профилю деятельности заказчика</item>
+        <item>Ресурсная эффективность</item>
+        <item>Надежность</item>
+        <item>Скорость доступа к данным</item>
+        <item>Гибкость настройки</item>
+        <item>Обучаемость персонала</item>
+        <item>Соотношение</item>
+    </string-array>
+    <string name="Bj0">Показатели качества</string>
+    <string name="Bj1">Удобство работы (пользовательский интерфейс)</string>
+    <string name="Bj2">Новизна (соответствие современным требованиям)</string>
+    <string name="Bj3">Соответствие профилю деятельности заказчика</string>
+    <string name="Bj4">Ресурсная эффективность</string>
+    <string name="Bj5">Надежность (защита данных)</string>
+    <string name="Bj6">Скорость доступа к данным</string>
+    <string name="Bj7">Гибкость настройки</string>
+    <string name="Bj8">Обучаемость персонала</string>
+    <string name="Bj9">Соотношение</string>
+
+
+</resources>
